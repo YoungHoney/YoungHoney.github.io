@@ -27,16 +27,14 @@ CPU는 i5-8250U, ram은 8GB였는데 윈도우11을 설치하고 보니 불편�
 [MS의 원드라이브 강요에 대한 유튜브 영상](https://www.youtube.com/watch?app=desktop&v=hoj6_-HXmug)
 
 ## 2-2. 백그라운드 리소스 낭비
-![윈도우작업관리자](https://github.com/user-attachments/assets/1984278a-f61a-4411-a62e-5ec1145f6d54)
 
-<!--
+
+
 <p align="center">
- <img src= "![윈도우작업관리자](https://github.com/user-attachments/assets/d574b9bc-0c3e-43c1-9156-91c740a0c798.png)"
- alt="이미지 없음" width="300" height="300" />
- <img src= "https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9A%B0%EB%B6%84%ED%88%AChtop.png" alt="이미지 없음" width="300" height="300" />
+ <img src= "https://github.com/user-attachments/assets/1984278a-f61a-4411-a62e-5ec1145f6d54" alt="이미지 없음" width="300" height="300" />
+ <img src= "https://github.com/user-attachments/assets/2e70fdd1-a869-4ebf-9a1c-61ce82f883c0" alt="이미지 없음" width="300" height="300" />
  <figcaption align="center"> 캡처한 윈도우 작업관리자 사진은 윈도우 자체를 포맷하고 다시 설치하여 메모리 공간이 "그나마" 널널한 편임에도 꽤 오랫동안 사용한 우분투의 리소스 효율이 더 좋다.</figcaption>
 </p>
--->
 
 | 항목      | 윈도우     | 우분투         |
 | --------- | ---------- | -------------- |
@@ -52,7 +50,7 @@ CPU는 i5-8250U, ram은 8GB였는데 윈도우11을 설치하고 보니 불편�
 우분투를 설치하기위해 파티션을 조절할 때 발생한 일인데 노트북에 256GB용량의 SSD가 설치되어있었고 윈도우가 설치된 파티션이 240GB정도(이하 파티션1), 그 중에서 30GB정도를 사용하고 있어 210GB를 따로 나누어 우분투 파티션(이하 파티션2)을 만들고자 했다.
 그러나, "이동할 수 없는 파일이 있는 지점을 벗어나 볼륨을 축소할 수 없습니다...." 와 같은 에러메시지와 함께 분명히 240GB -> 30GB로 줄어야 할 파티션1이 하나도 줄이지 못하는 상황이 된 것이다.
 
-<p align="center"> <img src="https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EC%95%88%EC%A4%84%EC%96%B4%EB%93%AC.png" alt="이미지 없음" width="300" height="300" /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/dc85aac9-fdf8-4673-9964-ce47f6396e1d" alt="이미지 없음" width="300" height="300" /> </p>
 
 _출처 : https://sprout13.tistory.com/74 아쉽게도 캡처를 해놓지 못해 인터넷에서 유사한 사진을 찾았다._
 
