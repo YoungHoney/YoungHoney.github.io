@@ -28,7 +28,7 @@ CPU는 i5-8250U, ram은 8GB였는데 윈도우11을 설치하고 보니 불편�
 
 ## 2-2. 백그라운드 리소스 낭비
 캡처한 윈도우 작업관리자 사진은 윈도우 자체를 포맷하고 다시 설치하여 메모리 공간이 "그나마" 널널한 편이다.
-![image](https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9E%91%EC%97%85%EA%B4%80%EB%A6%AC%EC%9E%90.png)
+![image](https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9E%91%EC%97%85%EA%B4%80%EB%A6%AC%EC%9E%90.png){: width="300" height="300"}
 
 
 ## 2-3. 내 마음대로 할 수 없는 OS환경
