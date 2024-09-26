@@ -30,8 +30,8 @@ CPU는 i5-8250U, ram은 8GB였는데 윈도우11을 설치하고 보니 불편�
 
 
 <p align="center">
- <img src= "https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9E%91%EC%97%85%EA%B4%80%EB%A6%AC%EC%9E%90.png" width="300" height="300" />
- <img src= "https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9A%B0%EB%B6%84%ED%88%AChtop.png" width="300" height="300" />
+ <img src= "https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9E%91%EC%97%85%EA%B4%80%EB%A6%AC%EC%9E%90.png" alt="이미지 없음" width="300" height="300" />
+ <img src= "https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9A%B0%EB%B6%84%ED%88%AChtop.png" alt="이미지 없음" width="300" height="300" />
  <figcaption align="center"> 캡처한 윈도우 작업관리자 사진은 윈도우 자체를 포맷하고 다시 설치하여 메모리 공간이 "그나마" 널널한 편임에도 꽤 오랫동안 사용한 우분투의 리소스 효율이 더 좋다.</figcaption>
 </p>
 
@@ -50,7 +50,7 @@ RAM|3.9GB(49%)|**1.77G(23%)**|
 우분투를 설치하기위해 파티션을 조절할 때 발생한 일인데 노트북에 256GB용량의 SSD가 설치되어있었고 윈도우가 설치된 파티션이 240GB정도(이하 파티션1), 그 중에서 30GB정도를 사용하고 있어 210GB를 따로 나누어 우분투 파티션(이하 파티션2)을 만들고자 했다.
 그러나, "이동할 수 없는 파일이 있는 지점을 벗어나 볼륨을 축소할 수 없습니다...." 와 같은 에러메시지와 함께 분명히 240GB -> 30GB로 줄어야 할 파티션1이 하나도 줄이지 못하는 상황이 된 것이다.
 
-<p align="center"> <img src="https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EC%95%88%EC%A4%84%EC%96%B4%EB%93%AC.png" width="300" height="300" /> </p>
+<p align="center"> <img src="https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EC%95%88%EC%A4%84%EC%96%B4%EB%93%AC.png" alt="이미지 없음" width="300" height="300" /> </p>
 
 _출처 : https://sprout13.tistory.com/74 아쉽게도 캡처를 해놓지 못해 인터넷에서 유사한 사진을 찾았다._
 
@@ -63,13 +63,13 @@ _출처 : https://sprout13.tistory.com/74 아쉽게도 캡처를 해놓지 못�
 하여튼 위 방법을 적절히 이용해 보았으나, 240GB->150GB정도밖에 줄어들지 않아 근본적인 해결책은 되지 못했다.
 
 
-# 3. 현재.
+# 3. 현재
 이런 이유들로 노트북에 우분투를 설치하게 되었고, 2-2에서 보았듯 상당히 효율적으로 리소스를 활용하게 되어 더욱 쾌적한 환경을 갖게 되었다.
 그래도 데스크탑은 노트북보다 사양이 좋아 윈도우 그대로 사용하다가 점차 리눅스 환경에 호감을 느껴 데스크탑에도 설치하려고 생각했다.
 
 우분투를 사용하고, 몇몇 커스터마이징을 하면서 내가 OS, 프로그램의 User가 아니라 **Owner** 가 되는 느낌을 받았고 오픈소스 생태계에 관심이 가게 되었다.
 그런데 우분투의 경우 캐노니컬이라는 영국의 회사에서 관리를 하는데 프로그램을 설치하는 스토어 같은 개념의 snap이 커뮤니티 기반이 아니라 캐노니컬이 관리를 하며, 성능적으로도 문제가 있음에도 캐노니컬이 계속 snap을 고집하는 태도를 보이자
-많은 사람들이 우분투의 fork버전이자 캐노니컬이 아닌 커뮤니티에서 관리하는 리눅스 민트를 추천해 주었다. 그렇게 데스크탑엔 리눅스 민트를 설치하게 되었고 지금까지 만족하며 사용중이다.
+많은 사람들이 우분투의 fork버전이자 캐노니컬이 아닌 **커뮤니티**에서 관리하는 리눅스 민트를 추천해 주었다. 그렇게 데스크탑엔 리눅스 민트를 설치하게 되었고 지금까지 만족하며 사용중이다.
 
 [Linux Mint Forum](https://forums.linuxmint.com/)
 
