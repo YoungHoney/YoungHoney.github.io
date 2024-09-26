@@ -30,11 +30,11 @@ CPU는 i5-8250U, ram은 8GB였는데 윈도우11을 설치하고 보니 불편�
 
 
 
-<p style="text-align: left;">
+<p>
  <img src="https://github.com/user-attachments/assets/1984278a-f61a-4411-a62e-5ec1145f6d54" alt="이미지 없음" width="300" height="300" />
  <img src="https://github.com/user-attachments/assets/2e70fdd1-a869-4ebf-9a1c-61ce82f883c0" alt="이미지 없음" width="300" height="300" />
 </p>
-<figcaption style="text-align: left;">캡처한 윈도우 작업관리자 사진은 윈도우 자체를 포맷하고 다시 설치하여 메모리 공간이 "그나마" 널널한 편임에도 꽤 오랫동안 사용한 우분투의 리소스 효율이 더 좋다.</figcaption>
+<figcaption>캡처한 윈도우 작업관리자 사진은 윈도우 자체를 포맷하고 다시 설치하여 메모리 공간이 "그나마" 널널한 편임에도 꽤 오랫동안 사용한 우분투의 리소스 효율이 더 좋다.</figcaption>
 
 
 | 항목      | 윈도우     | 우분투         |
@@ -74,4 +74,4 @@ _출처 : https://sprout13.tistory.com/74 아쉽게도 캡처를 해놓지 못�
 
 [Linux Mint Forum](https://forums.linuxmint.com/)
 
-리눅스 민트의 장점과 내 세팅에 대하여 다른 포스트에서 소개하기로 하고 이만 글을 마치겠다.ff
+리눅스 민트의 장점과 내 세팅에 대하여 다른 포스트에서 소개하기로 하고 이만 글을 마치겠다.
