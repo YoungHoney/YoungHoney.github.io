@@ -27,7 +27,8 @@ CPU는 i5-8250U, ram은 8GB였는데 윈도우11을 설치하고 보니 불편�
 [MS의 원드라이브 강요에 대한 유튜브 영상](https://www.youtube.com/watch?app=desktop&v=hoj6_-HXmug)
 
 ## 2-2. 백그라운드 리소스 낭비
-![윈도우작업관리자](https://github.com/user-attachments/assets/d574b9bc-0c3e-43c1-9156-91c740a0c798.png)
+![윈도우작업관리자](https://github.com/user-attachments/assets/1984278a-f61a-4411-a62e-5ec1145f6d54)
+
 <!--
 <p align="center">
  <img src= "![윈도우작업관리자](https://github.com/user-attachments/assets/d574b9bc-0c3e-43c1-9156-91c740a0c798.png)"
