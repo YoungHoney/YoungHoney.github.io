@@ -30,18 +30,19 @@ CPU는 i5-8250U, ram은 8GB였는데 윈도우11을 설치하고 보니 불편�
 
 
 <p align="center">
- <img src= "https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9E%91%EC%97%85%EA%B4%80%EB%A6%AC%EC%9E%90.png" alt="이미지 없음" width="300" height="300" />
+ <img src= "![윈도우작업관리자](https://github.com/user-attachments/assets/d574b9bc-0c3e-43c1-9156-91c740a0c798)"
+ alt="이미지 없음" width="300" height="300" />
  <img src= "https://github.com/YoungHoney/YoungHoney.github.io/blob/main/assets/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9A%B0%EB%B6%84%ED%88%AChtop.png" alt="이미지 없음" width="300" height="300" />
  <figcaption align="center"> 캡처한 윈도우 작업관리자 사진은 윈도우 자체를 포맷하고 다시 설치하여 메모리 공간이 "그나마" 널널한 편임에도 꽤 오랫동안 사용한 우분투의 리소스 효율이 더 좋다.</figcaption>
 </p>
 
 
-|항목|윈도우|우분투|
-|---|---|---|
-CPU사용량|90%|**10~20%**|
-RAM|3.9GB(49%)|**1.77G(23%)**|
-프로세스|179|**119**|
-스레드|2689|**671**|
+| 항목      | 윈도우     | 우분투         |
+| --------- | ---------- | -------------- |
+| CPU사용량 | 90%        | **10~20%**     |
+| RAM       | 3.9GB(49%) | **1.77G(23%)** |
+| 프로세스  | 179        | **119**        |
+| 스레드    | 2689       | **671**        |
 
 프로세스와 스레드의 경우 1대1 비교는 무리일 수 있으나, 대체적으로 백그라운드에서 돌아가는 프로그램이 윈도우가 훨씬 더 많았다.
 
