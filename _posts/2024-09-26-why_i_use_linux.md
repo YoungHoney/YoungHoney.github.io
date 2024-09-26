@@ -22,7 +22,7 @@ CPU는 i5-8250U, ram은 8GB였는데 윈도우11을 설치하고 보니 불편�
 
 [MS 팀즈 자동실행을 막는 링크](https://www.itworld.co.kr/news/222479) 이 링크와 같이 이것 저것 방법을 찾아보면 된다지만, 이 과정자체가 상당히 피곤하다.
 
-[원드라이브에 대한 누군가의 팩트폭력](https://answers.microsoft.com/ko-kr/windows/forum/all/%EC%99%9C-%EC%93%B0%EA%B8%B0%EB%8F%84/ee5c3764-54b0-4c57-a747-ced62229100c)
+[원드라이브에 대한 누군가의 강한 반발](https://answers.microsoft.com/ko-kr/windows/forum/all/%EC%99%9C-%EC%93%B0%EA%B8%B0%EB%8F%84/ee5c3764-54b0-4c57-a747-ced62229100c)
 
 [MS의 원드라이브 강요에 대한 유튜브 영상](https://www.youtube.com/watch?app=desktop&v=hoj6_-HXmug)
 
@@ -30,11 +30,12 @@ CPU는 i5-8250U, ram은 8GB였는데 윈도우11을 설치하고 보니 불편�
 
 
 
-<p align="center">
- <img src= "https://github.com/user-attachments/assets/1984278a-f61a-4411-a62e-5ec1145f6d54" alt="이미지 없음" width="300" height="300" />
- <img src= "https://github.com/user-attachments/assets/2e70fdd1-a869-4ebf-9a1c-61ce82f883c0" alt="이미지 없음" width="300" height="300" />
- <figcaption align="center"> 캡처한 윈도우 작업관리자 사진은 윈도우 자체를 포맷하고 다시 설치하여 메모리 공간이 "그나마" 널널한 편임에도 꽤 오랫동안 사용한 우분투의 리소스 효율이 더 좋다.</figcaption>
+<p style="text-align: left;">
+ <img src="https://github.com/user-attachments/assets/1984278a-f61a-4411-a62e-5ec1145f6d54" alt="이미지 없음" width="300" height="300" />
+ <img src="https://github.com/user-attachments/assets/2e70fdd1-a869-4ebf-9a1c-61ce82f883c0" alt="이미지 없음" width="300" height="300" />
 </p>
+<figcaption style="text-align: left;">캡처한 윈도우 작업관리자 사진은 윈도우 자체를 포맷하고 다시 설치하여 메모리 공간이 "그나마" 널널한 편임에도 꽤 오랫동안 사용한 우분투의 리소스 효율이 더 좋다.</figcaption>
+
 
 | 항목      | 윈도우     | 우분투         |
 | --------- | ---------- | -------------- |
