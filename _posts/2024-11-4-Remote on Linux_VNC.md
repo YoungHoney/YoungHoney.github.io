@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 리눅스에서의 원격지원-VNC
-date: 2024-09-26
+date: 2024-11-4
 categories: [linux]
 tags: [linux]
 ---
