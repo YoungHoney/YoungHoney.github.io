@@ -75,3 +75,6 @@ _출처 : https://sprout13.tistory.com/74 아쉽게도 캡처를 해놓지 못�
 [Linux Mint Forum](https://forums.linuxmint.com/)
 
 리눅스 민트의 장점과 내 세팅에 대하여 다른 포스트에서 소개하기로 하고 이만 글을 마치겠다.
+
+
+{% include comments.html %}
