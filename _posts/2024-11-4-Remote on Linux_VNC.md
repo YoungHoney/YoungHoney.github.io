@@ -125,5 +125,3 @@ alias runremote='x11vnc -display :0 -rfbauth ~/.vnc/passwd -forever -loop'
 이러한 아쉬운점이 있으나 앞으로 좀 더 관련 설정과 정보를 찾아보며 문제점을 해결하고 싶다. 
 이렇게 윈도우에서 사용하던 SW를 리눅스의 오픈소스기반 SW로 대체해 나가는 과정에서 여러 지식이 쌓이는것 같아 피곤할때도 있지만 기분이 좋다.
 
-
-{% include comments.html %}
