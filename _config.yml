@@ -123,7 +123,7 @@ comments:
     repo_id: R_kgDOM0ms4A
     category: Announcements
     category_id: DIC_kwDOM0ms4M4CpyMA
-    mapping: title # optional, default to 'pathname'
+    mapping: pathname # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: top # optional, default to 'bottom'
     lang: ko # optional, default to the value of `site.lang`
