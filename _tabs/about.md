@@ -1,5 +1,7 @@
 ---
 layout: home
+title: YoungHoney's Blog
+permalink: /
 icon: fas fa-home
 order: 1
 ---
