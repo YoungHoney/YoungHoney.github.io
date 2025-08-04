@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 스프링 리액티브 프로그래밍을 배우며며
+title: 스프링 리액티브 프로그래밍을 배우며
 date: 2025-08-04
 categories: [OOP,Spring, Reactive]
 tags: [Java,Spring, Reactive]
