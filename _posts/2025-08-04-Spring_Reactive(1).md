@@ -63,27 +63,26 @@ public interface Publisher<T> {
 이제 다시 처음의 질문으로 돌아와 보자. 왜 **`X튜브 채널.구독(구독자)`** 의 형태일까? 바로 이 역압력 메커니즘을 가장 효율적으로 구현하기 위한 설계이기 때문이다. 둘의 '구독' 과정, 즉 최초의 '악수(Handshake)' 과정을 단계별로 살펴보면 그 이유가 명확해진다.
 
 ```
-  Subscriber         |      Subscription        |      Publisher
-       |             |                          |          |
-       |             |                          |          |
-       | <--- 1. subscribe(this) 호출됨 -------- |          |  (외부에서 publisher.subscribe(subscriber) 실행)
-       |             |                          |          |
-       |             |                          | -- 2. Subscription 생성 --> |
-       |             |                          |          |
-       | -- 3. onSubscribe(subscription) 호출 -->|          |
-       |             |                          |          |
-       |         (Subscriber가 '리모컨'을 전달받음)           |
-       |             |                          |          |
-       |             | <--- 4. request(n) ----- |          |  (데이터 n개 요청)                                 |          |
-       |             |                          |          |
-       |             |                          |          |  (요청받은 개수만큼 데이터 생성)                               
-       |             |                          |          |
-       | <--- 5. onNext(data) ------------------|          |  (데이터 전달)                                     |
-       |             |                          |          |
-       | <--- 5. onNext(data) ------------------|          |  (... n번 반복 ...)
-       |             |                          |          |
-       | <--- 6. onComplete() / onError() ------|          |  (스트림 종료)
-       |             |                          |          |
+  Application/Client   Subscriber               Subscription            Publisher
+       |               |                      |                  |          |
+       |               |                      |                  |          |
+// 1. 외부에서 구독 시작
+| -- publisher.subscribe(subscriber) -------------------------------------->|
+       |               |                      |                  |          |
+       |               |                      |                  | // 2. Publisher가 Subscription 생성
+       |               |                      |                  |    및 Subscriber의 onSubscribe 호출
+       |               | <---- onSubscribe(subscription) ------------------ |
+       |               |                      |                  |          |
+// 3. Subscriber가 제어권을 갖고 데이터 요청
+       |               | --- request(n) ----> |                  |          |
+       |               |                      |                  |          |
+       |               |                      |                  | // 4. Publisher가 요청에 맞춰 데이터 생성 및 전송
+       |               | <---- onNext(data) --------------------------------|
+       |               | <---- onNext(data) --------------------------------|
+       |               |                      |                  |          |
+// 5. 데이터 전송 완료 또는 에러
+       |               | <---- onComplete() / onError() --------------------|
+       |               |                      |                  |          |
 
 ```
 
