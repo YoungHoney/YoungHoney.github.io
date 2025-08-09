@@ -8,7 +8,7 @@ tags: [Java,Spring, Reactive]
 
 # 1 들어가며
 
-7월달부터 SSAFY 생활을 하면서 적응을 하느라 개인공부를 할 시간을 내지 못했다. 그러다가 잠깐 시간이 남아서 Java Spring WebFlux에 관한 공부를 했고, 간단히 기록하고자 한다. 
+7월 초 부터 SSAFY 생활을 하면서 적응을 하느라 개인공부를 할 시간을 내지 못했다. 그러다가 잠깐 시간이 남아서 Java Spring WebFlux에 관한 공부를 했고, 간단히 기록하고자 한다. 
 
 원래 목표는 Line의 [Armeria](https://armeria.dev/)라는 오픈소스에 기여하는 것이었는데, 이 프레임워크를 알아가기위해 이와 유사한 Spring WebFlux를 학습하기로 했다. 
 
